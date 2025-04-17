@@ -24,5 +24,5 @@
 ---
 
 📫 **Let's Connect**  
-[LinkedIn](https://linkedin.com/in/shadan-techie) · [Portfolio](https://yourportfolio.com) · [Email](shadansarfaraz01@gmail.com)
+[LinkedIn](https://linkedin.com/in/shadan-techie) · [Portfolio](https://shadansarfaraz01.wixsite.com/mysite?rc=test-site) · [Email](shadansarfaraz01@gmail.com)
 
