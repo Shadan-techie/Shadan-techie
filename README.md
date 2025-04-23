@@ -9,13 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadan-techie&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadan-techie&theme=tokyonight" width="48%" />
-</p>
-
----
-
 ✨ **What I Do Best**  
 - Craft beautiful, intuitive, and insightful **dashboards** that tell compelling stories from raw data.  
 - Build **data pipelines** that seamlessly turn unstructured data into structured, analyzable insights.  
